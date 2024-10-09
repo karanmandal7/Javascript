@@ -1,5 +1,5 @@
 //var score = 8;
-//console.log("Mid-level skills:", 0 < 8 && 10 > 8); 
+//console.log("Mid-level skills:", 0 < score && 10 > score); 
 //Using && Operator.
 
 //Using || Operator 
