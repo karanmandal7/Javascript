@@ -24,3 +24,4 @@ var iphone = new os();
 samsung.useSystem();
 iphone.useSystem();
     
+// inheritance, polymorphism some oop principles
