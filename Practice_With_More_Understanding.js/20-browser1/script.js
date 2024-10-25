@@ -2,4 +2,4 @@
 alert("Hello");
 
 // This will log a message to the console
-console.log("Hey Harry");
+console.log("Hey Karan");
